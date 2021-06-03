@@ -1,5 +1,5 @@
 # Zira-Ticket-App
-Project name: Zira Ticket App ;
+Project name: Zira Ticket App 
 
 
 Tech Stack : HTML, CSS, JAVASCRIPT 
